@@ -1,0 +1,5 @@
+# Ignorowanie wszystkich plików .docx
+*.docx
+
+# Ignorowanie tymczasowych plików Worda
+~$*.docx
