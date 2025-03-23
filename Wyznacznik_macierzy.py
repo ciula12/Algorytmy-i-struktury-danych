@@ -28,5 +28,5 @@ print("Losowa macierz:")
 for wiersz in macierz:
     print(wiersz)
 
-# Obliczenie i wyświetlenie wyznacznika
+# Obliczenie + wyświetlenie wyznacznika
 print(f"\nWyznacznik macierzy: {wyznacznik(macierz)}")
